@@ -1,0 +1,10 @@
+.bg-co
+
+
+ntainer {
+  background-image: radial-gradient(to right #1d976c, #93f9b9);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
